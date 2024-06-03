@@ -1,0 +1,14 @@
+streamlit>=0.88
+streamlit-drawable-canvas>=0.8
+svgpathtools
+svgwrite
+folium
+streamlit_folium
+numpy
+pandas
+yolov8
+opencv-python-headless
+ultralytics
+opencv-python-headless==4.7.0.72
+streamlit-image-comparison==0.0.4
+ultralytics
